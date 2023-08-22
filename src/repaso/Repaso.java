@@ -15,7 +15,21 @@ public class Repaso {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //VARIABLES
+        /*
+        -Representa un espacio en la memoria
+        -Se guardan distintos tipos de datos
+        -Se le asignan nombres
+        -Asignar tipo de datos
+        */
+        
+        int nicoEdad= 38;
+        String nicoNombre = "Nicolás";
+        System.out.println("Me llamo: "+ nicoNombre);
+        System.out.println("Y tengo "+ nicoEdad);
+        
+                
+                
     }
     
 }
